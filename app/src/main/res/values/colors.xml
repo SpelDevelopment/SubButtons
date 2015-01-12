@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="mainColor">#BEBEBE</color>
+    <color name="activateColor">@android:color/holo_blue_dark</color>
+
+</resources>

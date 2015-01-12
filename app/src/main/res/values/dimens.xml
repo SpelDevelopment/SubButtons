@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="mainSize">32dp</dimen>
+    <dimen name="bigSize">48dp</dimen>
+    <dimen name="subSize">24dp</dimen>
+</resources>
